@@ -1,0 +1,12 @@
+table Icon
+  Caption: 
+  ToolTip.Caption: Visual Studio Code
+  Icon: /home/flosha/Bilder/icons/tools/vscode.png
+  Width: 48
+  Height: 48
+  X: 1844
+  Y: 604
+  Command[0]: code
+  Command[1]: 
+end
+

@@ -1,0 +1,12 @@
+table Icon
+  Caption: 
+  ToolTip.Caption: Netzwerkumgebung
+  Icon: /home/flosha/Bilder/icons/win95/network.png
+  Width: 48
+  Height: 48
+  X: 44
+  Y: 164
+  Command[0]: thunar computer:///
+  Command[1]: 
+end
+

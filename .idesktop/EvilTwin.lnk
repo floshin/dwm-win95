@@ -1,0 +1,12 @@
+table Icon
+  Caption: 
+  ToolTip.Caption: Evil Twin
+  Icon: /home/flosha/Bilder/icons/games/eviltwin.png
+  Width: 48
+  Height: 48
+  X: 1004
+  Y: 1004
+  Command[0]: 
+  Command[1]: idesktool NoCaption1412089.lnk
+end
+

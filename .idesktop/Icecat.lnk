@@ -1,0 +1,12 @@
+table Icon
+  Caption: 
+  ToolTip.Caption: Icecat
+  Icon: /home/flosha/Bilder/icons/tools/IcecatSmall.png
+  Width: 48
+  Height: 48
+  X: 1844
+  Y: 444
+  Command[0]: firefox
+  Command[1]: 
+end
+

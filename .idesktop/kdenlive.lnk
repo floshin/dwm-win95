@@ -1,0 +1,12 @@
+table Icon
+  Caption: 
+  ToolTip.Caption: kdenlive
+  Icon: /home/flosha/Bilder/icons/tools/kdenlive.png
+  Width: 48
+  Height: 48
+  X: 1844
+  Y: 764
+  Command[0]: kdenlive
+  Command[1]: 
+end
+

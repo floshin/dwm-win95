@@ -1,0 +1,12 @@
+table Icon
+  Caption: 
+  ToolTip.Caption: Spacer
+  Icon: /home/flosha/Bilder/icons/tools/spacer.png
+  Width: 48
+  Height: 48
+  X: 1844
+  Y: 684
+  Command[0]: 
+  Command[1]: idesktool NoCaption1466719.lnk
+end
+

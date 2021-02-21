@@ -1,0 +1,12 @@
+table Icon
+  Caption: 
+  ToolTip.Caption: Thief
+  Icon: /home/flosha/Bilder/icons/games/thief.png
+  Width: 48
+  Height: 48
+  X: 764
+  Y: 1004
+  Command[0]: 
+  Command[1]: idesktool NoCaption1466719.lnk
+end
+

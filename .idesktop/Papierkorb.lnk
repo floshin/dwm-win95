@@ -1,0 +1,12 @@
+table Icon
+  Caption: 
+  ToolTip.Caption: Papierkorb
+  Icon: /home/flosha/Bilder/icons/win95/user-trash.png
+  Width: 48
+  Height: 48
+  X: 44
+  Y: 324
+  Command[0]: thunar trash:///
+  Command[1]: 
+end
+

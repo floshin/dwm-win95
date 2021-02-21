@@ -1,0 +1,12 @@
+table Icon
+  Caption: 
+  ToolTip.Caption: McGee's Alice
+  Icon: /home/flosha/Bilder/icons/games/alice.png
+  Width: 48
+  Height: 48
+  X: 844
+  Y: 1004
+  Command[0]: 
+  Command[1]: idesktool NoCaption1385488.lnk
+end
+

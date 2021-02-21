@@ -1,0 +1,12 @@
+table Icon
+  Caption: 
+  ToolTip.Caption: PoP Warrior Within
+  Icon: /home/flosha/Bilder/icons/games/warriorwithin.png
+  Width: 48
+  Height: 48
+  X: 1084
+  Y: 1004
+  Command[0]: 
+  Command[1]: idesktool NoCaption1466719.lnk
+end
+

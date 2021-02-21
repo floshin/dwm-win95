@@ -1,0 +1,12 @@
+table Icon
+  Caption: 
+  ToolTip.Caption: Arbeitsplatz
+  Icon: /home/flosha/Bilder/icons/win95/computer.png
+  Width: 48
+  Height: 48
+  X: 44
+  Y: 84
+  Command[0]: thunar computer:///
+  Command[1]: 
+end
+

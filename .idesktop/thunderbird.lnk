@@ -1,0 +1,12 @@
+table Icon
+  Caption: 
+  ToolTip.Caption: Thunderbird
+  Icon: /home/flosha/Bilder/icons/win95/mail.png
+  Width: 48
+  Height: 48
+  X: 44
+  Y: 244
+  Command[0]: thunderbird
+  Command[1]: 
+end
+
